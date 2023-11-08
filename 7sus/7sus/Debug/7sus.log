@@ -1,0 +1,22 @@
+﻿Построение начато 08.11.2023 17:41:31.
+     1>Проект "D:\Users\Бригада У\7sus\7sus\7sus.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\7sus.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\7sus.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 7sus.cpp
+         7sus.cpp
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(29): error C2143: синтаксическая ошибка: отсутствие ")" перед "{"
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(29): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(29): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(29): error C2059: синтаксическая ошибка: )
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(96): error C2143: синтаксическая ошибка: отсутствие "," перед ":"
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(96): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(104): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\users\бригада у\7sus\7sus\7sus.cpp(228): warning C4018: <: несоответствие типов со знаком и без знака
+     1>Построение проекта "D:\Users\Бригада У\7sus\7sus\7sus.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.37

@@ -1,0 +1,5 @@
+﻿  lab8.cpp
+C:\Users\danya\source\repos\lab8\lab8\lab8.cpp(103,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\danya\source\repos\lab8\lab8\lab8.cpp(201,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\danya\source\repos\lab8\lab8\lab8.cpp(227,39): warning C4018: <: несоответствие типов со знаком и без знака
+  lab8.vcxproj -> C:\Users\danya\source\repos\lab8\Debug\lab8.exe
